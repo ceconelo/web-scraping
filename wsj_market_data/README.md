@@ -1,15 +1,5 @@
 
-# Web Scraping
-
-Desafios do projeto.
-
-
-
-
-
-
-
-## Screenshots
+## Web Scraping - Framework Scrapy
 
 ![alt text](https://skahka.bl.files.1drv.com/y4m-6wGKymtESIzpKq0n_2Nh1ONKRvGxFNR5BZwYKp7TFO4h5HUCg-DSmnbKiCQDlXnFNMqEkzNo-Ud64xBUU81OiV5NTixM3KvrDzSXklwTQXgoEJMG5wd3jjfnicegBQCF9E6ffZX0EctIw6YbTbCUvzsO8kpc-2tjUMbsDCj7xTzq7Zj6ecq2AVobhkm9FV9eRMIFZFgAGMSkoBxuowXwQ/1.PNG?psid=1)
 ![alt text](https://skauka.bl.files.1drv.com/y4mKykGXNlZ_YS4xVDMh0gcW4sZjKt9DZZ3RIC1ZsoA6iBfEtjg1mvJiFl95gQkJYkXorblzVYmz3IHSQ_A2w5cUDGY3tjxxRZCRqCHnEjKy-dH9w0G-_DAWC-XmNU16IMiTQt_KDQAj_oX4nMEqe2a8cMSEDOkkE-cdKjr8sMa4J_a8dnbP1Nay5hYBYOYYM-o8YX278jB_SwmaY1EowPIgg/2.PNG?psid=1)
