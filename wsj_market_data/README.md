@@ -1,0 +1,20 @@
+
+# Web Scraping
+
+Desafios do projeto.
+
+
+
+
+
+
+
+## Screenshots
+
+![App Screenshot](https://skahka.bl.files.1drv.com/y4mrZT9eSylhV461aMsFqTsCCsQ1WMHBaFApplNeaJPyqDuAlqrQMMA-Iq3WgvacC9r5NUagvKlaKium3wWDNDnUztPEb6Zuz0H3a5sFRSC-2dqoApaM7qqJfOR2Rlp5HxaPgoOi0fBz5W5j_4hP0I6O-YiyNXS_qLBwnnGH2b-FxYtjRjow1aoLVigFfXrx5heZ8Bi-xa4eWRIbNQzgYuCiA/1.PNG?psid=1)
+![App Screenshot](https://skauka.bl.files.1drv.com/y4mTM1pmqE9EZhZ3N4pmasrV61h0NHNogh2yfRHX3yg6jr0MnJGADoaXvdY49jy8e_4euYzwVU1aXYTmFBLQH3VZthvPI_LatnvUWoIRdCl-uM1fvSSncTFEdW_qjSWOATtofov34nIIoUB134QJTLO1hxRheoyvyPqtXe8Pu77t13RmQHyWMnq5LJEMgD4a5hxgPPOoHewbgOX5tO8kAtY4g/2.PNG?psid=1)
+![App Screenshot](https://skaika.bl.files.1drv.com/y4mHNQD2Qs2lMi5jcCyL0FGnTW2iWhXk5GZsYA36mC4WZNXj_bOYkSY5H8vb0xQAVHjRexSA7TjroopugBcohEaNdE-vlVkHm1AhNBkqFk8pRhcP60IEPEdby9Bn00kor7AEFXT-hl13Ct5FwJtmyQMRnJCBk2ziCuGUnwdBWc6_syqckRMGMl0zUn6_vI9l3D3_rjbuZp3yipfpUkvwpX2_Q/3.PNG?psid=1)
+![App Screenshot](https://skatka.bl.files.1drv.com/y4mz6VFInpYpCHO3AzLMcyC1kqAWVVPO8tSCvIUIsH2OMM43LvVPeChoJuuMsGxjj0If2vxn3Muj6HdvmVWP553QMVqoFWxpSoFF_uAMqE6wtUhnuzvwrRRGregTOst-iiYIimDGAK-JT5ilNfiRE1zvlZ39RW9x3jy6a_TYqhS5RBea4HFD2T6sHl1SKKRVZsgaU5B8nOYZDgZ7wqMdRjcIA/4.PNG?psid=1)
+![App Screenshot](https://r6abka.bl.files.1drv.com/y4mX289x3U7gKt5Dsq0P1xGXKua__7hGhAerRDjyJYaCUo60cUcJMYm0jBe7a6Gx_o03VVDVaeJn_JeIGNcxfNaLID_NXRvOK06Zxpt6RmTd5H9K52H03J6j4J8KYGiOdMjR0KrWlPBQA6FOcT4KHWCtVsBlFOtKk1xOO_7ddszJ2a5pwx7_BLZ-a-CqnYLTaXMLiZ7LNYV1s37-A7DBwtimA/5.PNG?psid=1)
+
+
